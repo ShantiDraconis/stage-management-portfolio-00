@@ -1,0 +1,3 @@
+ticket_id,venue_alias,asset_id,severity,status,reported_at,due_at,owner_role,symptom,action,evidence_ref
+DEMO-100,DEMO-VENUE-A,DEMO-FX-002,P2,OPEN,2026-11-02,2026-11-25,technical-supervisor,illustrative fault,inspect and retest,DEMO-ONLY
+DEMO-101,DEMO-VENUE-A,DEMO-FX-001,P3,VERIFIED,2026-11-03,2026-12-01,technical-operator,scheduled inspection,record completed check,DEMO-ONLY

@@ -1,0 +1,3 @@
+asset_id,venue_alias,category,location_zone,condition,last_inspected,next_inspection,owner_role
+DEMO-FX-001,DEMO-VENUE-A,show-operations,THEATRE-A,serviceable,2026-11-01,2026-12-01,technical-operator
+DEMO-FX-002,DEMO-VENUE-A,show-operations,THEATRE-B,inspection-required,2026-11-01,2026-11-25,technical-supervisor
